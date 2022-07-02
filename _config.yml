@@ -38,6 +38,7 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 email:             blackstarnet@googlegroups.com
+phone:              +1 626-747-8782
 #twitter:            username
 #facebook:           username
 github-url:         blackstarnet
@@ -61,7 +62,7 @@ github-url:         blackstarnet
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-phone:              626-747-8782
+
 
 # Gems
 gems:
