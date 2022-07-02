@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Blackstar Network Ltd.
+bio:                'A Global Shadow Syndicate'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         blackstarnet
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -61,6 +61,7 @@ steam:              username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+#email:             blackstarnet@googlegroups.com
 
 # Gems
 gems:
