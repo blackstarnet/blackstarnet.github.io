@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about, blackstar network, syndicate, group]
+date: 2022-07-02
 comments: false
 ---
     
