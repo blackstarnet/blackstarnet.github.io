@@ -21,11 +21,11 @@ Our main purpose now is to be the go-to for any of our clients via consulting in
     
 
 ## FAQ
-* Q. Are you currently hiring? What's your process?
-* A. No we are not. As for our process, typically if we need someone to join and work with us, we reach out to them. 
-* Q. Do you have any presence on the internet and in social media?
-* A. Other than our github and payment options we offer to our clients, no. 
-* Q. Do you own any properties at this time?
-* A. Not now. However, it isn't to say that we won't in the future.
-* Q. How can we contact you?
-* A. Email is best, which you'll find in the home page. 
+* Are you currently hiring? What's your process?
+* No we are not. As for our process, typically if we need someone to join and work with us, we reach out to them. 
+* Do you have any presence on the internet and in social media?
+* Other than our github and payment options we offer to our clients, no. 
+* Do you own any properties at this time?
+* Not now. However, it isn't to say that we won't in the future.
+* How can we contact you?
+* Email is best, which you'll find in the home page. 
