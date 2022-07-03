@@ -1,5 +1,5 @@
 
-Note from BSN Staff: This rep is Moon theme mirrored by the Jekyll and its creator. All credit for the theme goes to them. Below is all the detail about the project. Below is the information of the original theme and its creators.   
+Note from BSN Staff: This rep is Moon theme mirrored by the Jekyll and its creator. All credit for the theme goes to them. Below is the information of the original theme and its installation process.   
 
 ----
 
