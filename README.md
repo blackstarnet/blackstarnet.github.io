@@ -1,3 +1,8 @@
+
+Note: This rep is Moon theme mirrored by the Jekyll and its creator. All credit for the theme goes to them. Below is all the detail about the project. Below is the information of where you can find the original links.  
+
+----
+
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
