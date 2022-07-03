@@ -10,7 +10,7 @@ comments: false
 
 ## Backstory 
 * Blackstar Network Ltd was founded in Febuary 2013 as a unnamed group dedicated to cybersecurity and OSINT Investigations
-* In November 28 2019, the group legitmized itself and became a formal company syndicate under the name The Federation Ltd Co. 
+* In November 28 2018, the group legitmized itself and became a formal company syndicate under the name The Federation Ltd Co. 
 * From Jan 2020 - April 2021, the syndicate went beyond cybersecurity and expanding to being in different industries such as entertainment, logitics, public relations, art, etc. 
 * In May 2021, the company itself went under a name change to our current name
     
