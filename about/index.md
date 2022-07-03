@@ -6,32 +6,26 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://blackstarnet.github.io/about"><b>about</b></a> Backstory on the Syndicate</center>
+<center><a href="http://blackstarnet.github.io/about"> </center>
 
-## Test to see if this shit works lol
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Origin story 
+* Blackstar Network Ltd was founded in Febuary 2013 as a unnamed group dedicated to cybersecurity and OSINT Investigations
+* In November 28 2019, the group legitmized itself and became a formal company syndicate under the name The Federation Ltd Co. 
+* From Jan 2020 - April 2021, the syndicate went beyond cybersecurity and expanding to being in different industries such as entertainment, logitics, public relations, art, etc. 
+* In May 2021, the company itself went under a name change to our current name
+    
+    
+    
+## Purpose
+* Our main purpose now is to be the go-to for any of our clients via consulting in various fields that we as a group have dabbled and have experience in.
+    
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## FAQ
+* Are you currently hiring? What's your process?
+    Answer: No we are not. As for our process, typically if we need someone to join and work with us, we reach out to them. 
+* Do you have any presence on the internet and in social media?
+    Answer: Other than our github and payment options we offer to our clients, no. 
+* Do you own any properties at this time?
+    Answer: Not now. However, it isn't to say that we won't in the future.
+* How can we contact you?
+    Answer: Email is best, which you'll find in the home page. 
