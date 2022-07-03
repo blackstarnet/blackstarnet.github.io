@@ -6,9 +6,9 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://blackstarnet.github.io/about"> </center>
+<center><a href="http://blackstarnet.github.io/about"> <b>Blackstar Network Ltd</b></a> The origins on one of the infamous syndicates.</center>
 
-## Origin story 
+## Backstory 
 * Blackstar Network Ltd was founded in Febuary 2013 as a unnamed group dedicated to cybersecurity and OSINT Investigations
 * In November 28 2019, the group legitmized itself and became a formal company syndicate under the name The Federation Ltd Co. 
 * From Jan 2020 - April 2021, the syndicate went beyond cybersecurity and expanding to being in different industries such as entertainment, logitics, public relations, art, etc. 
