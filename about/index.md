@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://blackstarnet.github.io/about"> <b>Blackstar Network Ltd</b></a> The origins on one of the infamous syndicates.</center>
+<center><a href="http://blackstarnet.github.io"> <b>Blackstar Network Ltd</b></a> The origins on one of the infamous syndicates.</center>
 
 ## Backstory 
 * Blackstar Network Ltd was founded in Febuary 2013 as a unnamed group dedicated to cybersecurity and OSINT Investigations
