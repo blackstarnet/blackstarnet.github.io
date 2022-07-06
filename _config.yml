@@ -1,10 +1,10 @@
 # Site
 title:              Blackstar Network Ltd.
-bio:                'An Infamous Global Shadow Syndicate'
+bio:                'Est. 2013 - Global Syndicate'
 description:        "The official Website of the infamous syndicate Blackstar Network Ltd."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/bsn.png'
+logo:               'assets/img/Circle.png'
 background:         'assets/img/placeholder-bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
