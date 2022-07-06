@@ -5,7 +5,7 @@ description:        "The official Website of the infamous syndicate Blackstar Ne
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Circle.png'
-background:         'assets/img/cybermap.png'
+background:         'assets/img/cybermap.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://blackstarnet.github.io
