@@ -1,1 +1,1 @@
-# blackstnet
+just a normal website
